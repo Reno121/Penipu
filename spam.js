@@ -1,8 +1,8 @@
 const { default: axios } = require("axios");
 
-const token = "bot6552174883:AAFINa7ke_ka9WenWsoRE9I67ejbGGXrqvw";
+const token = "bot6690197381:AAGHGeOqvLckzrhsi9vLigGWHNG4nPnzAwk";
 const message = "MUKA%20PENIPU%20KONTOL!!!!"
-const chatId = "6978978663";
+const chatId = "6754224209";
 
 const url = `https://api.telegram.org/${token}/sendMessage?parse_mode=markdown&chat_id=${chatId}&text=${message}`
 
